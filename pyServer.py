@@ -24,7 +24,7 @@ def Main():
 	c.send(data)
 
     print "Connection Closed"
-    c.close()
+    #c.close()
 
 if __name__ == '__main__':
     Main()
